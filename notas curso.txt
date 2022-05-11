@@ -1,0 +1,2 @@
+Tablas de formatos comunes
+https://hackaprende.com/2020/11/25/formatos-de-string-en-kotlin/
